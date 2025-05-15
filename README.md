@@ -8,6 +8,12 @@
 
 A scalable voice assistant implementation using LiveKit for real-time communication, with custom Speech-to-Text (STT) and Text-to-Speech (TTS) integrations using local APIs.
 
+
+
+https://github.com/user-attachments/assets/0e8ccc11-c21f-4d22-9904-eccede307123
+
+
+
 ## 🚀 Features
 
 - **🗣️ Voice-to-Voice Communication**: Real-time voice interaction with an AI assistant
