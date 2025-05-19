@@ -47,7 +47,7 @@ https://github.com/user-attachments/assets/0e8ccc11-c21f-4d22-9904-eccede307123
 2. Create and activate a virtual environment:
    ```bash
    python -m venv .venv
-   source .venv/bin/activate  # On Windows: .venv\Scripts\activate
+   source .venv/bin/activate
    ```
 
 3. Install dependencies:
