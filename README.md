@@ -120,3 +120,5 @@ The application consists of several key components:
 - **Custom TTS Class**: Converts text responses to speech
 - **Ollama LLM Integration**: Processes text input and generates responses
 - **Agent Implementation**: Manages the conversation flow and tools
+
+Developed by [extrawest](https://extrawest.com/). Software development company
